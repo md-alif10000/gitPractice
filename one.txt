@@ -21,3 +21,4 @@ branching.....
 git branch   {show branches.........}
 git branch branchName  {create new branches....}
 git checkout branchName {jump to another brunch..}
+git merge branchName -m "message"
