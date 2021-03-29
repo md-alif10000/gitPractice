@@ -1,1 +1,24 @@
 
+
+
+
+git add --all
+git add --A 
+git add .
+git add myFolder/one.txt
+git status
+git reset
+git clone URL>>>>>>>
+git reset HEAD~  {reset after commit....}
+git reset --hard  {get back changes and files..}
+git commit m- ""
+git rm
+git rm two.txt -f   {if the file is modified...}
+git rm --cached two.txt
+git rm -r folder  {remove all folder inside this folder.}
+
+
+branching.....
+git branch   {show branches.........}
+git branch branchName  {create new branches....}
+git checkout branchName {jump to another brunch..}
